@@ -1,4 +1,4 @@
-# Artist Home App using GetX State Management
+# Artist Home App developed by using GetX State Management
 
 I Develop this app using flutter
 
