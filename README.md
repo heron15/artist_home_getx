@@ -7,7 +7,6 @@ I Develop this app using flutter
 <div style="display:flex">
     <img src="screenshots/s1.png" alt="Home Screen" width="200" height="400" style="margin-right: 30px;">
 </div>
-
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
